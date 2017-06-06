@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaHelloWorld.iml" filepath="$PROJECT_DIR$/JavaHelloWorld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/artifactID.iml" filepath="$PROJECT_DIR$/.idea/modules/artifactID.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/artifactID_main.iml" filepath="$PROJECT_DIR$/.idea/modules/artifactID_main.iml" group="artifactID" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/artifactID_test.iml" filepath="$PROJECT_DIR$/.idea/modules/artifactID_test.iml" group="artifactID" />
     </modules>
